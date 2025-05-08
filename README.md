@@ -1,3 +1,3 @@
 # mwf-merge-strategy
 
-test #7
+test #6.1
